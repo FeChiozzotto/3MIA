@@ -11,11 +11,10 @@ function Contato() {
         <div className="sobre">
         <h1>Entre em contato com a gente</h1>
         </div>
-        <div>
-          <p>
-          colocar icons           
-          </p>
-        </div>
+        <h2>Nosso email de suporte</h2>
+        <h3>lojamoveis@gmail.com</h3>
+        <h2>Telefone</h2>
+        <h3>(99)9 9999-9999</h3>
     </div>
     </div>
   );
